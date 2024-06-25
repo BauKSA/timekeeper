@@ -1,0 +1,19 @@
+﻿  main.cpp
+  timekeeper.cpp
+C:\Users\Bau_M\OneDrive\Desktop\cpp\timekeeper\timekeeper.cpp(18,32): warning C4244: '=': conversión de '_Rep' a 'int'; posible pérdida de datos
+C:\Users\Bau_M\OneDrive\Desktop\cpp\timekeeper\timekeeper.cpp(18,32): warning C4244:         with
+C:\Users\Bau_M\OneDrive\Desktop\cpp\timekeeper\timekeeper.cpp(18,32): warning C4244:         [
+C:\Users\Bau_M\OneDrive\Desktop\cpp\timekeeper\timekeeper.cpp(18,32): warning C4244:             _Rep=__int64
+C:\Users\Bau_M\OneDrive\Desktop\cpp\timekeeper\timekeeper.cpp(18,32): warning C4244:         ]
+C:\Users\Bau_M\OneDrive\Desktop\cpp\timekeeper\timekeeper.cpp(19,42): warning C4244: '=': conversión de '_Rep' a 'int'; posible pérdida de datos
+C:\Users\Bau_M\OneDrive\Desktop\cpp\timekeeper\timekeeper.cpp(19,42): warning C4244:         with
+C:\Users\Bau_M\OneDrive\Desktop\cpp\timekeeper\timekeeper.cpp(19,42): warning C4244:         [
+C:\Users\Bau_M\OneDrive\Desktop\cpp\timekeeper\timekeeper.cpp(19,42): warning C4244:             _Rep=__int64
+C:\Users\Bau_M\OneDrive\Desktop\cpp\timekeeper\timekeeper.cpp(19,42): warning C4244:         ]
+  utils.cpp
+C:\Users\Bau_M\OneDrive\Desktop\cpp\timekeeper\utils.cpp(17,13): warning C4267: 'argumento': conversión de 'size_t' a 'int'; posible pérdida de datos
+  Generando código
+  Previous IPDB not found, fall back to full compilation.
+  All 67 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Generación de código finalizada
+  timekeeper.vcxproj -> C:\Users\Bau_M\OneDrive\Desktop\cpp\timekeeper\x64\Release\timekeeper.exe
